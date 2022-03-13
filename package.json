@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_kirukiru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development PORT=3005 nodemon app.js",
+    "start": "cross-env NODE_ENV=development PORT=3005 node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "^4.17.3"
+  }
+}

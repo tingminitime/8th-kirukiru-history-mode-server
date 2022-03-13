@@ -1,0 +1,1 @@
+import{_ as e}from"./index.2dab82ed.js";import{o,c as s,a as t}from"./vendor.6ed2a9c6.js";const r={mounted(){console.log("User Posts")}},c={class:"p-3 m-auto w-1/2 border-8 border-blue-500"},a=t("p",{class:"text-center"}," User Posts ",-1),n=[a];function _(d,p,i,l,m,f){return o(),s("div",c,n)}var x=e(r,[["render",_]]);export{x as default};

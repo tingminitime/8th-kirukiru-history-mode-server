@@ -1,0 +1,1 @@
+import{_ as e}from"./index.2dab82ed.js";import{o,c as r,a as s}from"./vendor.6ed2a9c6.js";const t={mounted(){console.log("User Profile")}},c={class:"p-3 w-full border-8 border-red-500"},a=s("p",{class:"text-center"}," User Profile ",-1),n=[a];function _(d,l,i,f,p,m){return o(),r("div",c,n)}var x=e(t,[["render",_]]);export{x as default};
